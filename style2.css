@@ -1,0 +1,14 @@
+body{
+    background-color: orange;
+} 
+ 
+h3 {
+    background: white; /* Цвет фона под заголовком */
+    color: green; /* Цвет текста */
+    padding: 1px; /* Поля вокруг текста */
+    text-align:center; 
+    /* */
+   }
+p{
+    text-align: center
+}
